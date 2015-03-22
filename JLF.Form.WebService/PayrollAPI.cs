@@ -22,7 +22,7 @@ namespace JLF.Form.WebService
         string m_url = string.Empty;
 
         /// <summary>
-        /// 系统数据源的配置地址
+        /// 系统数据源的配置地址 @Add by Tim.Liu @2015-03-21
         /// </summary>
         public string Url
         {
